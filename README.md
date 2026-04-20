@@ -1,2 +1,2 @@
-# Audio-Super-ResolutionResolution
-Our Multimedia Compression and Coding's 1st ProjectProject
+# Audio-Super-Resolution
+Our Multimedia Compression and Coding's 1st Project
